@@ -1,0 +1,11 @@
+Q:\Tool Game\ALL\Internet COST\Internet COST\bin\Debug\Internet.exe.config
+Q:\Tool Game\ALL\Internet COST\Internet COST\bin\Debug\Internet.exe
+Q:\Tool Game\ALL\Internet COST\Internet COST\bin\Debug\Internet.pdb
+Q:\Tool Game\ALL\Internet COST\Internet COST\bin\Debug\Internet.xml
+Q:\Tool Game\ALL\Internet COST\Internet COST\obj\Debug\Internet_COST.Form1.resources
+Q:\Tool Game\ALL\Internet COST\Internet COST\obj\Debug\Internet_COST.Form2.resources
+Q:\Tool Game\ALL\Internet COST\Internet COST\obj\Debug\Internet_COST.Resources.resources
+Q:\Tool Game\ALL\Internet COST\Internet COST\obj\Debug\Internet COST.vbproj.GenerateResource.Cache
+Q:\Tool Game\ALL\Internet COST\Internet COST\obj\Debug\Internet.exe
+Q:\Tool Game\ALL\Internet COST\Internet COST\obj\Debug\Internet.xml
+Q:\Tool Game\ALL\Internet COST\Internet COST\obj\Debug\Internet.pdb
